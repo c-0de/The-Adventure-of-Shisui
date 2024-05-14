@@ -11,8 +11,11 @@ Pixel art for both the sprite characters and the tiles is created using MS Paint
 Game Controls:-
 
 Left arrow key - Left
+
 Right arrow key - Right
+
 Up arrow key - Jump
+
 X - Slash
 
 
